@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iOS/LAPIZZA.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LAPIZZA/App.xaml">
+    <Files>
+      <File FileName="LAPIZZA/App.xaml" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LAPIZZA.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
